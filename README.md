@@ -60,7 +60,6 @@
 - 🌱 Learning advanced system design and architecture
 - 👯 Looking to collaborate on open source projects
 - 💡 Exploring AI/ML integration in web development
-- 📚 Deepening knowledge in cloud-native technologies
 
 ---
 
