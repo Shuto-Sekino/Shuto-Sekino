@@ -6,10 +6,6 @@
 
   ### 👨‍💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Problem Solver
 
-  <p>
-    <em>Passionate about creating elegant solutions to complex problems</em>
-  </p>
-
   [![GitHub followers](https://img.shields.io/github/followers/Shuto-Sekino?style=social)](https://github.com/Shuto-Sekino)
   [![GitHub stars](https://img.shields.io/github/stars/Shuto-Sekino?style=social)](https://github.com/Shuto-Sekino)
 
@@ -42,14 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shuto-Sekino&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
