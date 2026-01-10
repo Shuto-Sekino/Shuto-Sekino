@@ -17,27 +17,6 @@
 
 ---
 
-### 🚀 About Me
-
-```typescript
-const shuto = {
-    code: ["Python", "TypeScript", "Java", "MATLAB/Simulink"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Vue"]
-        },
-        backEnd: {
-            frameworks: ["FastAPI", "Node.js"]
-        },
-        devOps: ["Docker", "Azure", "Azure DevOps", "Git", "GitHub Actions"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed"
-};
-```
-
----
-
 ### 💻 Tech Stack
 
 <div align="center">
