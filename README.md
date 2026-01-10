@@ -6,10 +6,6 @@
 
   ### 👨‍💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Problem Solver
 
-  <p>
-    <em>Passionate about creating elegant solutions to complex problems</em>
-  </p>
-
   [![GitHub followers](https://img.shields.io/github/followers/Shuto-Sekino?style=social)](https://github.com/Shuto-Sekino)
   [![GitHub stars](https://img.shields.io/github/stars/Shuto-Sekino?style=social)](https://github.com/Shuto-Sekino)
 
