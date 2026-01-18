@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shuto%20Sekino&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
-
-<div align="center">
 
   ### 👨‍💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Problem Solver
 
